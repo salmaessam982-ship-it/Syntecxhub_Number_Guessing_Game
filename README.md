@@ -34,3 +34,7 @@ A simple Python console game where the computer randomly selects a number and th
 4. Run:
 
 python number_guessing_game.py
+
+## Internship
+
+This project was completed as part of the Syntecxhub Internship Program.
